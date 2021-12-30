@@ -1,4 +1,4 @@
-# Audio
+ # Audio
 use.voice.path.for.pcm.voip=true
 ro.config.media_vol_default=10
 ro.config.vc_call_vol_steps=11
@@ -158,11 +158,8 @@ ro.zram.mark_idle_delay_mins=60
 ro.zram.first_wb_delay_mins=180
 ro.zram.periodic_wb_delay_hours=24
 
-# SparkOS Stuff
-ro.spark.maintainer=Ayaan-Malik(Scissordragonboy)
-ro.spark.device.name=Miatoll
-ro.spark.group.url=https://t.me/SparkOSMiatoll
-ro.spark.maintainer.username=Ayaan-Malik(Scissordragonboy)
+# Maintainer
+ro.octavi.maintainer=Ayaan-Malik(Scissordragonboy)
 
 # Gayming
 debug.performance.tuning=1
