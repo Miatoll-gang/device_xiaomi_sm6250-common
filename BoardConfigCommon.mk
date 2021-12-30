@@ -72,6 +72,10 @@ TARGET_USES_DRM_PP := true
 # Filesystem
 TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/config.fs
 
+# FM
+BOARD_HAS_QCA_FM_SOC := "cherokee"
+BOARD_HAVE_QCOM_FM := true
+
 # Kernel
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
